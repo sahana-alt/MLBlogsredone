@@ -1,0 +1,18 @@
+project:
+  type: website
+
+website:
+  title: "BlogsML1_Sahana"
+  navbar:
+    right:
+      - icon: github
+        href: https://github.com/
+      - icon: twitter
+        href: https://twitter.com
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+
+
